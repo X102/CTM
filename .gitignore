@@ -1,0 +1,9 @@
+# File gốc (tên có dấu/dài) - không đưa lên GitHub
+"mới 1.html"
+IMG_3101.JPG
+1769741*.jpg
+*.mp3
+!music/*.mp3
+goc/
+Thumbs.db
+.DS_Store
